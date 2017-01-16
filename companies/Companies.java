@@ -28,7 +28,7 @@ import paths.Paths;
 import search.CikPair;
 import search.Search;
 import time.Quarter;
-import x.FilingReader;
+import filings.FilingReader;
 
 /**
  *

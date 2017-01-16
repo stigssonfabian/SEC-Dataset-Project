@@ -10,7 +10,7 @@ import internet.CompanyData;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import x.FilingReader;
+import filings.FilingReader;
 
 /**
  *
